@@ -3,7 +3,7 @@ package dk.sayan.java;
 public class ProductPromotionLogic {
 
 	//************---------------------------method for Product A logic implementation------------------------------************
-
+// test
 	public int prodA(int a) {
 		int total=0;
 		int qan=0;
